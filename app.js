@@ -12,6 +12,7 @@ async function main() {
   
 }
 
+// schema structure 
 const employeSchema = new mongoose.Schema({
     name : String,
     email : String,
